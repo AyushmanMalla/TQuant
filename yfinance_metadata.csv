@@ -1,0 +1,1171 @@
+Ticker,Sector,Industry,Market_Cap,Volume
+AAPL,Technology,Consumer Electronics,3.63E+12,50509406
+BAC,Financial Services,Banks - Diversified,3.53E+11,33290225
+AMZN,Consumer Cyclical,Internet Retail,2.44E+12,36640967
+DAL,Industrials,Airlines,41380323328,7582877
+AA,Basic Materials,Aluminum,9398955008,4713323
+AXP,Financial Services,Credit Services,2.16E+11,2441384
+AMAT,Technology,Semiconductor Equipment & Materials,1.50E+11,6683633
+AAL,Industrials,Airlines,10350089216,27894116
+MT,Basic Materials,Steel,22330810368,1795176
+APA,Energy,Oil & Gas E&P,8320108032,6521738
+NLY,Real Estate,REIT - Mortgage,12105012224,6738989
+LUV,Industrials,Airlines,17738344448,7325013
+PANW,Technology,Software - Infrastructure,1.32E+11,5701000
+AMD,Technology,Semiconductors,1.81E+11,38898305
+AVGO,Technology,Semiconductors,1.11E+12,33194688
+DB,Financial Services,Banks - Regional,38780805120,1538583
+APD,Basic Materials,Specialty Chemicals,70115540992,1529206
+AMBA,Technology,Semiconductor Equipment & Materials,3183947520,735810
+ANF,Consumer Cyclical,Apparel Retail,5546034176,2092562
+AGNC,Real Estate,REIT - Mortgage,9261167616,17652618
+JBLU,Industrials,Airlines,2317138176,20645457
+ORLY,Consumer Cyclical,Specialty Retail,76644261888,337877
+AZO,Consumer Cyclical,Specialty Retail,58229366784,124259
+AN,Consumer Cyclical,Auto & Truck Dealerships,7487610368,465576
+ARR,Real Estate,REIT - Mortgage,1467930112,1972455
+ADI,Technology,Semiconductors,1.04E+11,3255159
+AMTD,Financial Services,Asset Management,1092460288,37884
+AEO,Consumer Cyclical,Apparel Retail,2750900480,5143298
+ALK,Industrials,Airlines,8931052544,2768098
+PAA,Energy,Oil & Gas Midstream,13749692416,4096188
+AAP,Consumer Cyclical,Specialty Retail,2902499328,1984196
+NAT,Energy,Oil & Gas Midstream,557485312,2771128
+AIV,Real Estate,REIT - Residential,1258706688,1036559
+UBS,Financial Services,Banks - Diversified,1.06E+11,1701784
+ARLP,Energy,Thermal Coal,3448709632,371277
+ATI,Industrials,Metal Fabrication,8734030848,1437442
+AVB,Real Estate,REIT - Residential,31310106624,616532
+AVY,Consumer Cyclical,Packaging & Containers,14693749760,667301
+ASH,Basic Materials,Specialty Chemicals,3065945088,549272
+ABM,Industrials,Specialty Business Services,3307354624,332208
+AMT,Real Estate,REIT - Specialty,88780234752,2306916
+ACM,Industrials,Engineering & Construction,13559590912,907984
+ARW,Technology,Electronics & Computer Distribution,5646086144,473389
+ARI,Real Estate,REIT - Mortgage,1398430976,1148930
+AR,Energy,Oil & Gas E&P,12493877248,4219993
+AL,Industrials,Rental & Leasing Services,5162323968,610420
+AVT,Technology,Electronics & Computer Distribution,4370212352,773830
+ALB,Basic Materials,Specialty Chemicals,9317660672,2091140
+CAR,Industrials,Rental & Leasing Services,3063787008,579433
+AI,Technology,Software - Application,4247529216,7984161
+AVAV,Industrials,Aerospace & Defense,4552918016,495379
+AMKR,Technology,Semiconductor Equipment & Materials,5472742400,1382259
+CENX,Basic Materials,Aluminum,1984966272,1237535
+AAON,Industrials,Building Products & Equipment,9173215232,571928
+VRSK,Industrials,Consulting Services,41727852544,687027
+ALG,Industrials,Farm & Heavy Construction Machinery,2233651200,94638
+ACTG,Industrials,Business Equipment & Supplies,422578016,193450
+RBA,Industrials,Specialty Business Services,17689088000,854655
+MAA,Real Estate,REIT - Residential,18835189760,686267
+ASX,Technology,Semiconductors,23495319552,8610450
+ARCO,Consumer Cyclical,Restaurants,1767462656,1391076
+ANET,Technology,Computer Hardware,1.38E+11,7964564
+AIR,Industrials,Aerospace & Defense,2375750912,229488
+WAB,Industrials,Railroads,33568215040,1072211
+RS,Basic Materials,Steel,15763079168,430552
+PKG,Consumer Cyclical,Packaging & Containers,19052107776,821754
+ALSN,Consumer Cyclical,Auto Parts,8688659456,569010
+ROK,Industrials,Specialty Industrial Machinery,33770383360,921162
+GLPI,Real Estate,REIT - Specialty,13527525376,1088362
+AZZ,Industrials,Specialty Business Services,2945488384,202098
+ARMK,Industrials,Specialty Business Services,10254261248,1992874
+AOS,Industrials,Specialty Industrial Machinery,9501294592,1184632
+SPR,Industrials,Aerospace & Defense,4049194752,1329708
+SEE,Consumer Cyclical,Packaging & Containers,4968096768,1200091
+CBL,Real Estate,REIT - Retail,982132672,179988
+BBVA,Financial Services,Banks - Diversified,71723376640,1864572
+APOG,Industrials,Building Products & Equipment,1082302592,238481
+AMSC,Industrials,Specialty Industrial Machinery,1250477952,1298110
+AMED,Healthcare,Medical Care Facilities,3038962432,460486
+ADUS,Healthcare,Medical Care Facilities,2094191744,154176
+WMS,Industrials,Building Products & Equipment,9780619264,658477
+PAG,Consumer Cyclical,Auto & Truck Dealerships,11744034816,163311
+KLIC,Technology,Semiconductor Equipment & Materials,2205260032,527584
+AMH,Real Estate,REIT - Residential,15080274944,2219900
+AME,Industrials,Specialty Industrial Machinery,42660130816,1217677
+AGCO,Industrials,Farm & Heavy Construction Machinery,7027108352,933893
+ACRE,Real Estate,REIT - Mortgage,278673568,619505
+WAL,Financial Services,Banks - Regional,9614527488,1035932
+DAVE,Technology,Software - Application,1396797440,450267
+ARE,Real Estate,REIT - Office,16585675776,1383828
+AGX,Industrials,Engineering & Construction,2011015296,404284
+ACLS,Technology,Semiconductor Equipment & Materials,2005982720,643545
+ABG,Consumer Cyclical,Auto & Truck Dealerships,5870765568,184349
+GPI,Consumer Cyclical,Auto & Truck Dealerships,6438263808,132715
+AXTA,Basic Materials,Specialty Chemicals,8169455616,1878538
+AWI,Industrials,Building Products & Equipment,6670302208,185733
+ALX,Real Estate,REIT - Retail,1043878976,12705
+ODC,Basic Materials,Specialty Chemicals,635444544,39740
+CXW,Industrials,Security & Protection Services,2093950592,1241366
+AXL,Consumer Cyclical,Auto Parts,558509760,1744320
+ASGN,Technology,Information Technology Services,3414449920,402494
+ALGT,Industrials,Airlines,1495945088,341074
+AIT,Industrials,Industrial Distribution,10098603008,300647
+AEHR,Technology,Semiconductor Equipment & Materials,311973888,1251425
+LAMR,Real Estate,REIT - Specialty,13151979520,444988
+ATRO,Industrials,Aerospace & Defense,657529216,372445
+APEI,Consumer Defensive,Education & Training Services,387894976,105598
+AM,Energy,Oil & Gas Midstream,8050152960,2675838
+ALV,Consumer Cyclical,Auto Parts,7385795584,699696
+WRLD,Financial Services,Credit Services,862519168,24259
+UHAL,Industrials,Rental & Leasing Services,12494924800,105867
+SAH,Consumer Cyclical,Auto & Truck Dealerships,2515365632,158818
+CACC,Financial Services,Credit Services,6158976000,63320
+ATSG,Industrials,Airlines,1466775936,1157103
+ASB,Financial Services,Banks - Regional,4159474944,1822142
+AROW,Financial Services,Banks - Regional,454402304,41323
+ARCB,Industrials,Trucking,2212255488,267798
+AMRK,Financial Services,Capital Markets,667556800,262023
+AAOI,Technology,Communication Equipment,1335581312,3424718
+USAP,Basic Materials,Steel,423582208,183373
+AOSL,Technology,Semiconductors,1016288256,849425
+AMWD,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1157208704,157988
+ALLY,Financial Services,Credit Services,11390971904,3294425
+ABR,Real Estate,REIT - Mortgage,2572626688,2166630
+ABCB,Financial Services,Banks - Regional,4614473216,398469
+RAIL,Industrials,Railroads,225216480,231347
+MITT,Real Estate,REIT - Mortgage,210699968,261469
+HASI,Real Estate,Real Estate Services,3355873280,1104191
+ATR,Healthcare,Medical Instruments & Supplies,9493534720,313979
+ASC,Industrials,Marine Shipping,450362208,840884
+ACNB,Financial Services,Banks - Regional,435000256,23344
+AAT,Real Estate,REIT - Diversified,1731190272,297276
+KALU,Basic Materials,Aluminum,1163001472,91666
+HOMB,Financial Services,Banks - Regional,6063911936,1005274
+ATLC,Financial Services,Credit Services,876522432,59244
+ALLE,Industrials,Security & Protection Services,11574635520,774932
+AHH,Real Estate,REIT - Diversified,976096832,756576
+AGM,Financial Services,Credit Services,2098585088,37567
+NOA,Energy,Oil & Gas Equipment & Services,503006240,53242
+CRMT,Consumer Cyclical,Auto & Truck Dealerships,422121024,110515
+GABC,Financial Services,Banks - Regional,1516515072,109188
+AMRC,Industrials,Engineering & Construction,1000608640,344577
+VLRS,Industrials,Airlines,890866240,582008
+ATAI,Healthcare,Biotechnology,380910528,2356642
+RYAM,Basic Materials,Chemicals,479867040,412866
+FWRD,Industrials,Integrated Freight & Logistics,877318272,524922
+ASTE,Industrials,Farm & Heavy Construction Machinery,752231424,155150
+FTAI,Industrials,Rental & Leasing Services,11067195392,2781845
+MOG-A,Industrials,Aerospace & Defense,5968036864,162786
+ASPN,Industrials,Building Products & Equipment,738425664,1777347
+FMAO,Financial Services,Banks - Regional,361803808,21547
+BA,Industrials,Aerospace & Defense,1.39E+11,9414959
+BP,Energy,Oil & Gas Integrated,91442651136,10942037
+BBY,Consumer Cyclical,Specialty Retail,19064188928,3062991
+USB,Financial Services,Banks - Regional,73928400896,8169789
+YUM,Consumer Cyclical,Restaurants,41511960576,1872383
+BTU,Energy,Thermal Coal,2077650048,2957374
+FITB,Financial Services,Banks - Regional,29192239104,4412130
+BHP,Basic Materials,Other Industrial Metals & Mining,1.31E+11,2224584
+LB,Energy,Oil & Gas Equipment & Services,5314824192,632955
+BMO,Financial Services,Banks - Diversified,73338380288,650625
+HRB,Consumer Cyclical,Personal Services,7004318208,1300903
+CBRL,Consumer Cyclical,Restaurants,1099827072,754628
+BCS,Financial Services,Banks - Diversified,55185989632,13809384
+TD,Financial Services,Banks - Diversified,1.05E+11,2435745
+MTB,Financial Services,Banks - Regional,32709664768,1139588
+BXP,Real Estate,REIT - Office,12572972032,1187727
+RY,Financial Services,Banks - Diversified,1.69E+11,1028291
+HBAN,Financial Services,Banks - Regional,24144959488,16353316
+SWK,Industrials,Tools & Accessories,13382976512,1784479
+B,Industrials,Specialty Industrial Machinery,2420454400,753469
+BWA,Consumer Cyclical,Auto Parts,6429309440,2403223
+PBI,Industrials,Integrated Freight & Logistics,1909677440,2049325
+BKE,Consumer Cyclical,Apparel Retail,2161948416,469557
+CM,Financial Services,Banks - Diversified,58436669440,1035713
+SB,Industrials,Marine Shipping,385468576,710281
+BPOP,Financial Services,Banks - Regional,7224553472,479142
+BGC,Financial Services,Capital Markets,4621449728,2988264
+BLDP,Industrials,Specialty Industrial Machinery,446137280,8764433
+BBD,Financial Services,Banks - Regional,20530591744,42674120
+SAN,Financial Services,Banks - Diversified,89993469952,3326661
+FIBK,Financial Services,Banks - Regional,3414733056,630164
+EWBC,Financial Services,Banks - Regional,13519757312,891218
+EAT,Consumer Cyclical,Restaurants,7114429952,1195474
+CFR,Financial Services,Banks - Regional,9235707904,384284
+BNS,Financial Services,Banks - Diversified,69638275072,1513935
+BCPC,Basic Materials,Specialty Chemicals,5303306240,123359
+BOKF,Financial Services,Banks - Regional,7097586688,144679
+VLY,Financial Services,Banks - Regional,5537568768,7500623
+ONB,Financial Services,Banks - Regional,7611005952,3150532
+BJRI,Consumer Cyclical,Restaurants,794470528,242189
+TCBI,Financial Services,Banks - Regional,3789630720,439955
+IBTX,Financial Services,Banks - Regional,2513928192,281990
+IBN,Financial Services,Banks - Regional,1.03E+11,4025933
+FFBC,Financial Services,Banks - Regional,2680538880,423813
+BZUN,Consumer Cyclical,Internet Retail,209092416,631635
+BHE,Technology,Electronic Components,1502510720,250210
+SASR,Financial Services,Banks - Regional,1524391296,239835
+BYD,Consumer Cyclical,Resorts & Casinos,6900537344,855511
+BDC,Technology,Communication Equipment,4614103552,246754
+BCO,Industrials,Security & Protection Services,4088884736,243608
+BAP,Financial Services,Banks - Regional,14597586944,273933
+BAK,Basic Materials,Chemicals,1729133952,1047772
+ZION,Financial Services,Banks - Regional,8199447552,1199703
+SFBS,Financial Services,Banks - Regional,4861649920,222077
+JACK,Consumer Cyclical,Restaurants,752338496,604757
+BSBR,Financial Services,Banks - Regional,33493737472,662367
+SPB,Consumer Defensive,Household & Personal Products,2066430592,431674
+NRIM,Financial Services,Banks - Regional,484388480,47681
+LYG,Financial Services,Banks - Regional,48553918464,12529961
+IBKR,Financial Services,Capital Markets,99229294592,1408694
+BTE,Energy,Oil & Gas E&P,1944700160,19423644
+NBHC,Financial Services,Banks - Regional,1635963008,198933
+CNOB,Financial Services,Banks - Regional,1035230656,203822
+BOH,Financial Services,Banks - Regional,2889128960,372649
+BKU,Financial Services,Banks - Regional,3018340352,691767
+BH,Consumer Cyclical,Restaurants,746117632,10479
+BFAM,Consumer Cyclical,Personal Services,6923218944,513903
+BDN,Real Estate,REIT - Office,850323584,2265110
+SBLK,Industrials,Marine Shipping,1886272000,2033447
+SBCF,Financial Services,Banks - Regional,2511420928,380437
+PB,Financial Services,Banks - Regional,7433355264,477932
+HTBI,Financial Services,Banks - Regional,655185472,39671
+FCNCA,Financial Services,Banks - Regional,28539375616,77557
+BWXT,Industrials,Aerospace & Defense,9978315776,851013
+BBSI,Industrials,Staffing & Employment Services,1103100544,108876
+JBT,Industrials,Specialty Industrial Machinery,3990514688,624967
+HDB,Financial Services,Banks - Regional,1.53E+11,2782654
+FBP,Financial Services,Banks - Regional,3351120896,991806
+EGBN,Financial Services,Banks - Regional,768036864,242079
+CBSH,Financial Services,Banks - Regional,8945416192,516639
+BUSE,Financial Services,Banks - Regional,1425244800,281254
+BRKL,Financial Services,Banks - Regional,1097692288,673489
+BANC,Financial Services,Banks - Regional,2675650304,1874481
+WASH,Financial Services,Banks - Regional,630067008,215037
+WABC,Financial Services,Banks - Regional,1330058368,109349
+PPBI,Financial Services,Banks - Regional,2428401920,511676
+NBTB,Financial Services,Banks - Regional,2266407168,226216
+INBK,Financial Services,Banks - Regional,287947328,31103
+IBP,Consumer Cyclical,Residential Construction,4973090304,288637
+CIB,Financial Services,Banks - Regional,9995206656,310272
+CBU,Financial Services,Banks - Regional,3433953536,218091
+CATY,Financial Services,Banks - Regional,3301520896,338252
+BVN,Basic Materials,Other Precious Metals & Mining,3369335296,902764
+BLMN,Consumer Cyclical,Restaurants,951091200,1712211
+NX,Industrials,Building Products & Equipment,1047578816,481698
+LOB,Financial Services,Banks - Regional,1583950208,188454
+IBCP,Financial Services,Banks - Regional,746812352,100225
+CCBG,Financial Services,Banks - Regional,630165952,27167
+BXMT,Real Estate,REIT - Mortgage,3409592832,1559837
+BFS,Real Estate,REIT - Retail,1286291968,42677
+BERY,Consumer Cyclical,Packaging & Containers,8153478656,1727274
+TRST,Financial Services,Banks - Regional,637740608,92194
+TOWN,Financial Services,Banks - Regional,2779174656,234242
+NWBI,Financial Services,Banks - Regional,1669079680,648413
+NFBK,Financial Services,Banks - Regional,507120544,181071
+MNRO,Consumer Cyclical,Auto Parts,572333056,647786
+LBAI,Financial Services,Banks - Regional,875024960,378402
+BSRR,Financial Services,Banks - Regional,440167904,46972
+BRX,Real Estate,REIT - Retail,8602808320,2272949
+BLX,Financial Services,Banks - Regional,1389612416,120549
+BLDR,Industrials,Building Products & Equipment,17550462976,1421600
+BHLB,Financial Services,Banks - Regional,1373221888,411389
+BANF,Financial Services,Banks - Regional,3984318976,106698
+RBC,Industrials,Tools & Accessories,11407011840,172193
+QSR,Consumer Cyclical,Restaurants,29733027840,1975220
+PFBC,Financial Services,Banks - Regional,1203864576,78972
+PBT,Energy,Oil & Gas Midstream,514095040,163462
+MPB,Financial Services,Banks - Regional,570608960,65247
+IBOC,Financial Services,Banks - Regional,4046914048,276950
+GSBC,Financial Services,Banks - Regional,702472128,32977
+CBAN,Financial Services,Banks - Regional,305200128,52138
+BSAC,Financial Services,Banks - Regional,10609510400,214479
+BRT,Real Estate,REIT - Residential,336815456,43328
+BLBD,Industrials,Farm & Heavy Construction Machinery,1162742912,781503
+BBW,Consumer Cyclical,Specialty Retail,510716192,302927
+BBDO,Financial Services,Banks - Regional,20530558976,63805
+STBA,Financial Services,Banks - Regional,1516985216,164196
+SFST,Financial Services,Banks - Regional,295328032,17500
+SBSI,Financial Services,Banks - Regional,961495360,121032
+OSBC,Financial Services,Banks - Regional,846314240,240591
+FNLC,Financial Services,Banks - Regional,286696352,21935
+BOOT,Consumer Cyclical,Apparel Retail,4122712576,793159
+BANR,Financial Services,Banks - Regional,2361530112,215098
+TCBK,Financial Services,Banks - Regional,1461577856,112633
+SMBC,Financial Services,Banks - Regional,682270592,32793
+SHBI,Financial Services,Banks - Regional,549981312,118762
+OFG,Financial Services,Banks - Regional,1969369600,316867
+MBWM,Financial Services,Banks - Regional,795856064,71637
+INDB,Financial Services,Banks - Regional,2932966400,252847
+GBCI,Financial Services,Banks - Regional,5721131008,583101
+FSBW,Financial Services,Banks - Regional,305800704,15686
+FRBA,Financial Services,Banks - Regional,382034176,48479
+FBIZ,Financial Services,Banks - Regional,444803488,31406
+BXC,Industrials,Industrial Distribution,851060096,53037
+BSM,Energy,Oil & Gas E&P,3185708544,521072
+TSBK,Financial Services,Banks - Regional,244232320,11322
+TBBK,Financial Services,Banks - Regional,2935334656,459637
+PKBK,Financial Services,Banks - Regional,235196240,28801
+GCBC,Financial Services,Banks - Regional,456148000,23445
+DCOM,Financial Services,Banks - Regional,1359261568,330503
+CWBC,Financial Services,Banks - Regional,359568672,50710
+BMA,Financial Services,Banks - Regional,6398834176,352794
+UNTY,Financial Services,Banks - Regional,481548768,39335
+UBSI,Financial Services,Banks - Regional,5480532480,539038
+RBCAA,Financial Services,Banks - Regional,1302439296,20462
+FFIN,Financial Services,Banks - Regional,5328327680,481313
+COLB,Financial Services,Banks - Regional,5755953664,1418381
+BMRC,Financial Services,Banks - Regional,395801696,52759
+PWOD,Financial Services,Banks - Regional,236525952,20662
+NGVC,Consumer Defensive,Grocery Stores,1142203136,135461
+NEWT,Financial Services,Banks - Regional,335653088,139571
+NBN,Financial Services,Banks - Regional,885975168,54189
+FMBH,Financial Services,Banks - Regional,921422080,55064
+FBMS,Financial Services,Banks - Regional,1178077952,134203
+ESSA,Financial Services,Banks - Regional,221778656,23635
+CUBI,Financial Services,Banks - Regional,1767629056,323749
+BLD,Industrials,Engineering & Construction,9650890752,293162
+BCH,Financial Services,Banks - Regional,13268583424,219961
+PEBO,Financial Services,Banks - Regional,1165419136,126181
+HWBK,Financial Services,Banks - Regional,247050416,10228
+HBCP,Financial Services,Banks - Regional,403362272,20908
+FMNB,Financial Services,Banks - Regional,537880000,84257
+FCBC,Financial Services,Banks - Regional,807075264,34818
+EBTC,Financial Services,Banks - Regional,532824224,43876
+BECN,Industrials,Industrial Distribution,7378287616,867952
+WTBA,Financial Services,Banks - Regional,374188704,28557
+SYBT,Financial Services,Banks - Regional,2219391744,142833
+CIVB,Financial Services,Banks - Regional,337890560,54703
+OVLY,Financial Services,Banks - Regional,232581152,15184
+HBNC,Financial Services,Banks - Regional,757704000,167308
+FBNC,Financial Services,Banks - Regional,1790755968,182025
+CFNB,Financial Services,Credit Services,204806576,127
+CART,Consumer Cyclical,Internet Retail,12842181632,3956122
+PLBC,Financial Services,Banks - Regional,266107248,10633
+PVBC,Financial Services,Banks - Regional,224846640,30076
+PBR-A,Energy,Oil & Gas Integrated,84998332416,4981930
+CTBI,Financial Services,Banks - Regional,1005463872,63283
+BWFG,Financial Services,Banks - Regional,245070752,15761
+F,Consumer Cyclical,Auto Manufacturers,37058260992,67197874
+GE,Industrials,Aerospace & Defense,2.24E+11,5309025
+XOM,Energy,Oil & Gas Integrated,4.71E+11,15566167
+INTC,Technology,Semiconductors,1.04E+11,74850340
+C,Financial Services,Banks - Diversified,1.54E+11,14176549
+JPM,Financial Services,Banks - Diversified,7.73E+11,8950374
+CSCO,Technology,Communication Equipment,2.54E+11,19569984
+PG,Consumer Defensive,Household & Personal Products,4.01E+11,7005801
+WFC,Financial Services,Banks - Diversified,2.59E+11,15789855
+GM,Consumer Cyclical,Auto Manufacturers,47650643968,11492920
+MCD,Consumer Cyclical,Restaurants,2.22E+11,3107544
+CAT,Industrials,Farm & Heavy Construction Machinery,1.71E+11,2114754
+CVX,Energy,Oil & Gas Integrated,2.74E+11,8192011
+SBUX,Consumer Cyclical,Restaurants,1.28E+11,9106076
+CMG,Consumer Cyclical,Restaurants,78785921024,9137277
+MMM,Industrials,Conglomerates,80740081664,3471296
+COP,Energy,Oil & Gas E&P,1.25E+11,7184250
+DE,Industrials,Farm & Heavy Construction Machinery,1.27E+11,1359050
+UNP,Industrials,Railroads,1.52E+11,2695323
+LOW,Consumer Cyclical,Home Improvement Retail,1.43E+11,2314550
+LMT,Industrials,Aerospace & Defense,1.02E+11,1356276
+HAL,Energy,Oil & Gas Equipment & Services,22813458432,10012827
+EMR,Industrials,Specialty Industrial Machinery,70656671744,2999008
+X,Basic Materials,Steel,8742923264,7451372
+DOW,Basic Materials,Chemicals,26984919040,7682383
+NVDA,Technology,Semiconductors,3.31E+12,245980445
+FDX,Industrials,Integrated Freight & Logistics,63372718080,1818928
+CL,Consumer Defensive,Household & Personal Products,71692713984,4704344
+TM,Consumer Cyclical,Auto Manufacturers,2.41E+11,398866
+KMB,Consumer Defensive,Household & Personal Products,44912447488,2212335
+GD,Industrials,Aerospace & Defense,66549604352,1645379
+UAL,Industrials,Airlines,33180299264,5505850
+KSS,Consumer Cyclical,Department Stores,1320231424,9694601
+VLO,Energy,Oil & Gas Refining & Marketing,41469468672,2930159
+DVN,Energy,Oil & Gas E&P,22479118336,10017950
+STX,Technology,Computer Hardware,21484027904,2988650
+OXY,Energy,Oil & Gas E&P,44927860736,10813969
+CSX,Industrials,Railroads,63830700032,12460991
+MPC,Energy,Oil & Gas Refining & Marketing,48692436992,2778494
+KR,Consumer Defensive,Grocery Stores,47490260992,5807077
+LVS,Consumer Cyclical,Resorts & Casinos,30219614208,5105337
+LRCX,Technology,Semiconductor Equipment & Materials,1.07E+11,11920422
+WHR,Consumer Cyclical,"Furnishings, Fixtures & Appliances",5599987712,909801
+FAST,Industrials,Industrial Distribution,42886086656,2833308
+O,Real Estate,REIT - Retail,48066588672,4926637
+IP,Consumer Cyclical,Packaging & Containers,29231071232,7803313
+MCO,Financial Services,Financial Data & Stock Exchanges,95104638976,638428
+GME,Consumer Cyclical,Specialty Retail,11768712192,10069752
+HMC,Consumer Cyclical,Auto Manufacturers,42090184704,1573623
+EL,Consumer Defensive,Household & Personal Products,25061343232,4424655
+DDD,Technology,Computer Hardware,633345408,3018420
+COF,Financial Services,Credit Services,75220492288,2884694
+WDC,Technology,Computer Hardware,23498989568,5983911
+GT,Consumer Cyclical,Auto Parts,2327796480,4575374
+KLAC,Technology,Semiconductor Equipment & Materials,1.02E+11,1155479
+SHW,Basic Materials,Specialty Chemicals,90951671808,1596106
+RF,Financial Services,Banks - Regional,21858179072,7846755
+NOC,Industrials,Aerospace & Defense,65872666624,801883
+JCI,Industrials,Building Products & Equipment,58455310336,3986213
+CLX,Consumer Defensive,Household & Personal Products,18573357056,1228554
+WMB,Energy,Oil & Gas Midstream,70044319744,7326977
+CAH,Healthcare,Medical Distribution,30625990656,2220132
+NSC,Industrials,Railroads,58243354624,1178798
+SYY,Consumer Defensive,Food Distribution,35160961024,3183589
+CME,Financial Services,Financial Data & Stock Exchanges,90130137088,2086047
+CSIQ,Technology,Solar,666381248,1733706
+RRC,Energy,Oil & Gas E&P,9362828288,2353300
+CMI,Industrials,Specialty Industrial Machinery,50774482944,719308
+CCL,Consumer Cyclical,Travel Services,34959876096,19961061
+VMC,Basic Materials,Building Materials,35567988736,699469
+CLF,Basic Materials,Steel,5626022400,15407789
+NUE,Basic Materials,Steel,31828901888,2562079
+CHRW,Industrials,Integrated Freight & Logistics,11657377792,1122777
+MCK,Healthcare,Medical Distribution,75505147904,763362
+HAIN,Consumer Defensive,Packaged Foods,400696224,1563255
+DOV,Industrials,Specialty Industrial Machinery,27807447040,766949
+CNX,Energy,Oil & Gas E&P,4538192384,2987332
+KMX,Consumer Cyclical,Auto & Truck Dealerships,13472879616,1889635
+HES,Energy,Oil & Gas E&P,44939014144,1820630
+TJX,Consumer Cyclical,Apparel Retail,1.41E+11,4882433
+HUN,Basic Materials,Chemicals,2937404160,2414059
+ETN,Industrials,Specialty Industrial Machinery,1.22E+11,2593711
+NE,Energy,Oil & Gas Drilling,4748940800,1591647
+DHR,Healthcare,Diagnostics & Research,1.46E+11,3769038
+CIM,Real Estate,REIT - Mortgage,1146667520,532466
+WU,Financial Services,Credit Services,3500643840,5264425
+EMN,Basic Materials,Specialty Chemicals,11702016000,1162369
+PH,Industrials,Specialty Industrial Machinery,89339731968,589923
+TSM,Technology,Semiconductors,1.05E+12,14526403
+SLM,Financial Services,Credit Services,6316208128,2717500
+RGR,Industrials,Aerospace & Defense,605308352,159937
+GBX,Industrials,Railroads,1912284032,332142
+SPTN,Consumer Defensive,Food Distribution,702041600,273559
+SCHW,Financial Services,Capital Markets,1.48E+11,9675459
+CX,Basic Materials,Building Materials,9662527488,9604913
+CLMT,Energy,Oil & Gas E&P,1422480640,1063974
+CLB,Energy,Oil & Gas Equipment & Services,814318016,298483
+MUR,Energy,Oil & Gas E&P,4071936768,2105630
+FLR,Industrials,Engineering & Construction,7706213888,2280777
+CZR,Consumer Cyclical,Resorts & Casinos,8259097600,4211293
+H,Consumer Cyclical,Lodging,14169806848,527876
+FUN,Consumer Cyclical,Leisure,4295534080,1165315
+CP,Industrials,Railroads,73074384896,3222338
+CNI,Industrials,Railroads,64344625152,1335789
+WEN,Consumer Cyclical,Restaurants,3008589824,3939308
+MNR,Energy,Oil & Gas E&P,1876335872,276859
+WPC,Real Estate,REIT - Diversified,12883640320,1101669
+TRP,Energy,Oil & Gas Midstream,49201201152,2170315
+TDC,Technology,Software - Infrastructure,2376230912,834781
+OC,Industrials,Building Products & Equipment,15273036800,807950
+RCL,Consumer Cyclical,Travel Services,69938200576,2051796
+CNQ,Energy,Oil & Gas E&P,64239149056,5170113
+MAS,Industrials,Building Products & Equipment,16454121472,1428918
+FMC,Basic Materials,Agricultural Inputs,4582729216,2255918
+DCI,Industrials,Specialty Industrial Machinery,8370498048,600262
+CTAS,Industrials,Specialty Business Services,83126034432,1929152
+CCJ,Energy,Uranium,21359077376,4133669
+TRGP,Energy,Oil & Gas Midstream,44576440320,1634874
+EQT,Energy,Oil & Gas E&P,31546683392,7756513
+CC,Basic Materials,Specialty Chemicals,2658021888,1667832
+GNTX,Consumer Cyclical,Auto Parts,5540243456,1585857
+CRUS,Technology,Semiconductors,5683846656,700279
+MSM,Industrials,Industrial Distribution,4579329024,633420
+CR,Industrials,Specialty Industrial Machinery,9650476032,269577
+SN,Consumer Cyclical,"Furnishings, Fixtures & Appliances",16061312000,1051349
+SF,Financial Services,Capital Markets,11114161152,656876
+NFG,Energy,Oil & Gas Integrated,6538774528,572750
+MOD,Consumer Cyclical,Auto Parts,4890959360,927084
+IVR,Real Estate,REIT - Mortgage,523495168,1298555
+FLS,Industrials,Specialty Industrial Machinery,8241216512,1194006
+CRC,Energy,Oil & Gas E&P,4229656320,678435
+CE,Basic Materials,Chemicals,7138074112,2505188
+SNX,Technology,Electronics & Computer Distribution,11986695168,648925
+JKS,Technology,Solar,1069555648,920864
+TWO,Real Estate,REIT - Mortgage,1388275200,1259996
+TRNO,Real Estate,REIT - Industrial,6683563008,1315764
+SNV,Financial Services,Banks - Regional,7689312256,1249298
+OSK,Industrials,Farm & Heavy Construction Machinery,7060853760,657794
+OLN,Basic Materials,Chemicals,3224559104,1783122
+OLED,Technology,Electronic Components,6820678144,665283
+MTW,Industrials,Farm & Heavy Construction Machinery,382962752,275274
+MTRN,Basic Materials,Other Industrial Metals & Mining,2057283840,91596
+FHN,Financial Services,Banks - Regional,11522759680,5810191
+CASY,Consumer Cyclical,Specialty Retail,16109429760,249398
+TK,Energy,Oil & Gas Midstream,628758080,838601
+SM,Energy,Oil & Gas E&P,4458869760,1327154
+MAC,Real Estate,REIT - Retail,5357021696,2121022
+CRK,Energy,Oil & Gas E&P,5310382080,2280096
+CMC,Basic Materials,Steel,5850290176,1005406
+KRC,Real Estate,REIT - Office,4219574016,1256566
+KIM,Real Estate,REIT - Retail,15247846400,4145952
+ITT,Industrials,Specialty Industrial Machinery,12043129856,352694
+HNI,Industrials,Business Equipment & Supplies,2371078400,328716
+CUK,Consumer Cyclical,Leisure,30379567104,1439008
+ZBRA,Technology,Communication Equipment,16658103296,409247
+NAVI,Financial Services,Credit Services,1403669632,948350
+LKQ,Consumer Cyclical,Auto Parts,10034455552,2144410
+DENN,Consumer Cyclical,Restaurants,275637248,902754
+CSV,Consumer Cyclical,Personal Services,642414848,112864
+CSL,Industrials,Building Products & Equipment,16345548800,379871
+CMA,Financial Services,Banks - Regional,8772865024,2402571
+SCVL,Consumer Cyclical,Apparel Retail,672032768,435513
+LC,Financial Services,Banks - Regional,1490999552,1928603
+GTY,Real Estate,REIT - Retail,1703088768,302601
+COR,Healthcare,Medical Distribution,47368638464,1315713
+CAKE,Consumer Cyclical,Restaurants,2680094464,1155083
+TG,Industrials,Metal Fabrication,271542240,105994
+SCI,Consumer Cyclical,Personal Services,11789749248,991071
+LSCC,Technology,Semiconductors,8745981952,2095288
+LEA,Consumer Cyclical,Auto Parts,5234153984,760066
+IRBT,Consumer Cyclical,"Furnishings, Fixtures & Appliances",285419200,1747232
+HTGC,Financial Services,Asset Management,3527600896,948972
+CMP,Basic Materials,Other Industrial Metals & Mining,477297152,781538
+SXT,Basic Materials,Specialty Chemicals,3261781504,185810
+SON,Consumer Cyclical,Packaging & Containers,4736112640,702601
+SBRA,Real Estate,REIT - Healthcare Facilities,3946271488,1977674
+KODK,Industrials,Specialty Business Services,645611968,1638111
+JBL,Technology,Electronic Components,18475268096,1357905
+HFWA,Financial Services,Banks - Regional,831754880,184747
+FUL,Basic Materials,Specialty Chemicals,3307843584,376059
+CVI,Energy,Oil & Gas Refining & Marketing,1831674752,1224974
+CRH,Basic Materials,Building Materials,72048738304,3515147
+CPA,Industrials,Airlines,3943016448,353261
+COHU,Technology,Semiconductor Equipment & Materials,1000796096,324093
+CHH,Consumer Cyclical,Lodging,6892089344,290410
+CAMT,Technology,Semiconductor Equipment & Materials,4021808384,561844
+VC,Consumer Cyclical,Auto Parts,2254254592,297293
+TPC,Industrials,Engineering & Construction,1220157824,517049
+SKT,Real Estate,REIT - Retail,3820015360,693213
+NDSN,Industrials,Specialty Industrial Machinery,12404036608,358410
+DLX,Industrials,Conglomerates,824791040,292588
+CVEO,Consumer Cyclical,Lodging,343631360,82384
+CHE,Healthcare,Medical Care Facilities,8399395328,94577
+CCK,Consumer Cyclical,Packaging & Containers,10478123008,1384816
+CBT,Basic Materials,Specialty Chemicals,4654915584,389366
+CAC,Financial Services,Banks - Regional,754842304,68908
+TEX,Industrials,Farm & Heavy Construction Machinery,2983352064,764294
+POOL,Industrials,Industrial Distribution,12951048192,343633
+NEU,Basic Materials,Specialty Chemicals,5214631936,35615
+MEOH,Basic Materials,Chemicals,3136572672,372518
+LOPE,Consumer Defensive,Education & Training Services,5331932672,147398
+LNN,Industrials,Farm & Heavy Construction Machinery,1417639296,77291
+LINC,Consumer Defensive,Education & Training Services,550886016,137110
+GPOR,Energy,Oil & Gas E&P,3262624256,267867
+FSTR,Industrials,Railroads,306166944,37889
+CLDT,Real Estate,REIT - Hotel & Motel,429239808,256161
+CASH,Financial Services,Banks - Regional,1913601408,197572
+WLK,Basic Materials,Specialty Chemicals,14489721856,558235
+VAC,Consumer Cyclical,Resorts & Casinos,2976179712,297600
+SUI,Real Estate,REIT - Residential,16788106240,813757
+SID,Basic Materials,Steel,1949352320,2434049
+RM,Financial Services,Credit Services,359359008,42328
+REG,Real Estate,REIT - Retail,13684349952,1062083
+ON,Technology,Semiconductors,21458755584,7792864
+GHM,Industrials,Specialty Industrial Machinery,411148352,99584
+CTRN,Consumer Cyclical,Apparel Retail,243009552,96871
+CCNE,Financial Services,Banks - Regional,551971264,75069
+TRMK,Financial Services,Banks - Regional,2316473856,292622
+SQM,Basic Materials,Specialty Chemicals,10672044032,1058727
+SMCI,Technology,Computer Hardware,24757686272,72626774
+SLG,Real Estate,REIT - Office,4875139584,968298
+ROIC,Real Estate,REIT - Retail,2254863360,1367006
+PRIM,Industrials,Engineering & Construction,4003237376,656994
+GRC,Industrials,Specialty Industrial Machinery,995071296,62705
+CYD,Consumer Cyclical,Auto Manufacturers,420580160,44035
+CW,Industrials,Aerospace & Defense,12723378176,273761
+CMCO,Industrials,Farm & Heavy Construction Machinery,586556224,305484
+CLH,Industrials,Waste Management,12455004160,299010
+CBZ,Industrials,Specialty Business Services,4408003584,280657
+CAE,Industrials,Aerospace & Defense,7490051584,468281
+WBS,Financial Services,Banks - Regional,10105213952,988844
+TNC,Industrials,Specialty Industrial Machinery,1665147264,168374
+TKR,Industrials,Tools & Accessories,5828142080,584177
+PBA,Energy,Oil & Gas Midstream,21409984512,1469218
+LADR,Real Estate,REIT - Mortgage,1466803200,612745
+IPGP,Technology,Semiconductor Equipment & Materials,2675456000,254706
+IEX,Industrials,Specialty Industrial Machinery,14616867840,556994
+HAFC,Financial Services,Banks - Regional,736178432,188216
+GFF,Industrials,Conglomerates,3629873920,380198
+FIX,Industrials,Engineering & Construction,14060856320,392238
+FCCO,Financial Services,Banks - Regional,208463344,48693
+EFSC,Financial Services,Banks - Regional,2275131904,158367
+DAN,Consumer Cyclical,Auto Parts,2332712192,2005381
+CVBF,Financial Services,Banks - Regional,2845485312,832228
+CRS,Industrials,Metal Fabrication,9149084672,820594
+CECO,Industrials,Pollution & Treatment Controls,889515968,299235
+CCRN,Healthcare,Medical Care Facilities,587771456,773742
+CASS,Industrials,Specialty Business Services,609799808,43783
+WLKP,Basic Materials,Chemicals,829868992,38949
+UCTT,Technology,Semiconductor Equipment & Materials,1702277248,322971
+TRS,Consumer Cyclical,Packaging & Containers,973315072,216905
+THFF,Financial Services,Banks - Regional,617231104,49393
+TFSL,Financial Services,Banks - Regional,3863794432,287894
+STRL,Industrials,Engineering & Construction,3995774464,416216
+PKE,Industrials,Aerospace & Defense,285328864,55364
+NWPX,Industrials,Metal Fabrication,508036352,63945
+MTDR,Energy,Oil & Gas E&P,7127033856,1032628
+MATW,Industrials,Conglomerates,773288448,227233
+IX,Financial Services,Financial Conglomerates,23427825664,36822
+GDOT,Financial Services,Credit Services,506133792,490977
+FSS,Industrials,Pollution & Treatment Controls,5933431296,363027
+FNB,Financial Services,Banks - Regional,5545278976,2449293
+FELE,Industrials,Specialty Industrial Machinery,4608031232,171437
+CVE,Energy,Oil & Gas Integrated,28075149312,9068713
+CPT,Real Estate,REIT - Residential,12932077568,771262
+CPRT,Industrials,Specialty Business Services,57647882240,3876149
+CPF,Financial Services,Banks - Regional,800059136,229242
+WNC,Industrials,Farm & Heavy Construction Machinery,531740512,710944
+WDFC,Basic Materials,Specialty Chemicals,3149491456,98057
+STRT,Consumer Cyclical,Auto Parts,209946112,20518
+SHG,Financial Services,Banks - Regional,16878461952,185266
+RNST,Financial Services,Banks - Regional,2440922880,527844
+MTRX,Industrials,Engineering & Construction,424041984,168986
+LPX,Industrials,Building Products & Equipment,7885642240,590089
+LCNB,Financial Services,Banks - Regional,218828992,20667
+LAND,Real Estate,REIT - Specialty,422275456,336784
+IMOS,Technology,Semiconductors,739239488,27020
+HXL,Industrials,Aerospace & Defense,5207837696,1008874
+HNRG,Energy,Thermal Coal,485834912,435403
+HEI,Industrials,Aerospace & Defense,27548237824,534127
+GOOD,Real Estate,REIT - Diversified,721265984,233801
+FULT,Financial Services,Banks - Regional,3758316800,1272476
+FRME,Financial Services,Banks - Regional,2594358784,237023
+FCF,Financial Services,Banks - Regional,1690200448,580777
+DRH,Real Estate,REIT - Hotel & Motel,1782528640,2149516
+CHEF,Consumer Defensive,Food Distribution,2499053312,426945
+CHDN,Consumer Cyclical,Gambling,9046709248,443193
+CHCO,Financial Services,Banks - Regional,1757100416,58240
+WCN,Industrials,Waste Management,48739352576,996569
+VSEC,Industrials,Aerospace & Defense,1900125056,220600
+UMC,Technology,Semiconductors,15826482176,11693281
+UMBF,Financial Services,Banks - Regional,8157572608,609837
+SXI,Industrials,Specialty Industrial Machinery,2263375616,52476
+KEX,Industrials,Marine Shipping,6175092224,627562
+HTHT,Consumer Cyclical,Lodging,10904023040,1995657
+FF,Basic Materials,Specialty Chemicals,215314944,234915
+FCFS,Financial Services,Credit Services,5270572544,225942
+EPC,Consumer Defensive,Household & Personal Products,1432874624,495181
+DX,Real Estate,REIT - Mortgage,1138104576,2065627
+DQ,Technology,Semiconductor Equipment & Materials,1424361600,818183
+CWST,Industrials,Waste Management,6760003584,294732
+CPSS,Financial Services,Credit Services,237169616,28959
+CLS,Technology,Electronic Components,15067457536,3475050
+CIO,Real Estate,REIT - Office,205990544,251289
+USAC,Energy,Oil & Gas Equipment & Services,3330771968,410042
+TREX,Industrials,Building Products & Equipment,7266506240,1141908
+SRCE,Financial Services,Banks - Regional,1638194560,73611
+PLXS,Technology,Electronic Components,3781572096,199457
+PLPC,Industrials,Electrical Equipment & Parts,700062976,20894
+PGC,Financial Services,Banks - Regional,618169024,95084
+OCFC,Financial Services,Banks - Regional,1059258176,303825
+LKFN,Financial Services,Banks - Regional,1733887488,125562
+KOPN,Technology,Electronic Components,249862704,4899522
+FC,Consumer Defensive,Education & Training Services,470426720,101340
+CUZ,Real Estate,REIT - Office,5119422976,1307813
+CMPR,Industrials,Specialty Business Services,1308536832,153413
+CFFN,Financial Services,Banks - Regional,807004352,748315
+SPXC,Industrials,Building Products & Equipment,7016852992,272879
+SMTC,Technology,Semiconductors,3165350912,2560723
+NVEC,Technology,Semiconductors,352871552,24071
+MIDD,Industrials,Specialty Industrial Machinery,8983463936,685183
+GVA,Industrials,Engineering & Construction,3785756672,539340
+CUBE,Real Estate,REIT - Industrial,9556990976,1386162
+CPS,Consumer Cyclical,Auto Parts,257991584,152977
+CMRE,Industrials,Marine Shipping,1262681472,334225
+CHMG,Financial Services,Banks - Regional,244990848,13149
+WSFS,Financial Services,Banks - Regional,3312360960,285032
+VVI,Industrials,Specialty Business Services,1186109696,167791
+SNFCA,Financial Services,Mortgage Finance,317766304,41345
+PDS,Energy,Oil & Gas Drilling,768344896,72459
+PBPB,Consumer Cyclical,Restaurants,380201152,169764
+MPX,Consumer Cyclical,Recreational Vehicles,313458368,36155
+MCRI,Consumer Cyclical,Resorts & Casinos,1735980928,102955
+LION,Unknown,Unknown,2598128896,383044
+KEQU,Consumer Cyclical,"Furnishings, Fixtures & Appliances",200078992,24489
+CLW,Basic Materials,Paper & Paper Products,481788704,367811
+SFNC,Financial Services,Banks - Regional,2854813440,602367
+PFMT,Healthcare,Health Information Services,278717376,139145
+LTBR,Industrials,Electrical Equipment & Parts,239499200,2181769
+LFVN,Consumer Defensive,Packaged Foods,231445984,198667
+HVT,Consumer Cyclical,Home Improvement Retail,362201312,126927
+HTBK,Financial Services,Banks - Regional,649676416,345730
+GPK,Consumer Cyclical,Packaging & Containers,7985693184,2245932
+DAC,Industrials,Marine Shipping,1595383808,121659
+CZNC,Financial Services,Banks - Regional,332437600,37176
+CSTM,Basic Materials,Aluminum,1393914880,1114393
+CEVA,Technology,Semiconductors,825989440,278183
+VUZI,Technology,Consumer Electronics,315074368,2762927
+UVSP,Financial Services,Banks - Regional,907103424,97242
+SSB,Financial Services,Banks - Regional,10388473856,754879
+RYI,Industrials,Metal Fabrication,694266752,243606
+PKOH,Industrials,Specialty Industrial Machinery,358630144,29855
+PFIS,Financial Services,Banks - Regional,518218624,30411
+KRNY,Financial Services,Banks - Regional,468202816,349411
+GLDD,Industrials,Engineering & Construction,748065728,395798
+FFIC,Financial Services,Banks - Regional,501184000,356720
+COTY,Consumer Defensive,Household & Personal Products,5013959680,5362816
+CFFI,Financial Services,Banks - Regional,274929248,11637
+NWFL,Financial Services,Banks - Regional,241281120,15128
+FUNC,Financial Services,Banks - Regional,267774128,29849
+FOXF,Consumer Cyclical,Auto Parts,1071263424,673283
+FLIC,Financial Services,Banks - Regional,311590560,92815
+WTFC,Financial Services,Banks - Regional,8638391296,439003
+GTLS,Industrials,Specialty Industrial Machinery,8296791552,724062
+HD,Consumer Cyclical,Home Improvement Retail,4.10E+11,3103771
+DRI,Consumer Cyclical,Restaurants,22663260160,1283874
+DFS,Financial Services,Credit Services,47776735232,1434045
+DLR,Real Estate,REIT - Specialty,55723741184,2097577
+DPZ,Consumer Cyclical,Restaurants,16571215872,541952
+DDS,Consumer Cyclical,Department Stores,7928402944,127888
+DBD,Technology,Software - Application,1766104960,122822
+DY,Industrials,Engineering & Construction,5409795072,449888
+DKS,Consumer Cyclical,Specialty Retail,19766552576,1213974
+DSX,Industrials,Marine Shipping,218388480,642854
+ODFL,Industrials,Trucking,44063850496,1458188
+DK,Energy,Oil & Gas Refining & Marketing,1124235008,1062383
+DHT,Energy,Oil & Gas Midstream,1777411200,1977044
+DAKT,Technology,Electronic Components,747334144,461327
+KTOS,Industrials,Aerospace & Defense,4333894656,1609844
+FANG,Energy,Oil & Gas E&P,45599920128,2107827
+DCO,Industrials,Aerospace & Defense,932130432,104522
+DOC,Real Estate,REIT - Healthcare Facilities,13963336704,4680766
+WD,Financial Services,Mortgage Finance,2909330432,165481
+STLD,Basic Materials,Steel,20230316032,1646267
+DGII,Technology,Communication Equipment,1283723264,245216
+DAR,Consumer Defensive,Packaged Foods,6439853568,2290796
+DORM,Consumer Cyclical,Auto Parts,3837575680,168074
+DIN,Consumer Cyclical,Restaurants,407081568,544079
+DXPE,Industrials,Industrial Distribution,1537786368,253462
+PLOW,Consumer Cyclical,Auto Parts,595132416,147776
+KRNT,Industrials,Specialty Industrial Machinery,1386137856,250049
+DIOD,Technology,Semiconductors,2456570368,429494
+DKL,Energy,Oil & Gas Refining & Marketing,2208409600,173445
+DNOW,Industrials,Industrial Distribution,1793987840,848432
+DEI,Real Estate,REIT - Office,3395204352,1668859
+EPD,Energy,Oil & Gas Midstream,71985324032,4461186
+EXPE,Consumer Cyclical,Travel Services,26183741440,1670840
+EOG,Energy,Oil & Gas E&P,72567300096,3052281
+EXPD,Industrials,Integrated Freight & Logistics,15780893696,1001742
+SU,Energy,Oil & Gas Integrated,49574756352,4562032
+EQR,Real Estate,REIT - Residential,27974260736,1550383
+NUS,Consumer Defensive,Household & Personal Products,319144608,712606
+PBF,Energy,Oil & Gas Refining & Marketing,2676414720,2034706
+EDU,Consumer Defensive,Education & Training Services,8743895040,1882550
+HLX,Energy,Oil & Gas Equipment & Services,1242689664,1366930
+EFX,Industrials,Consulting Services,31095836672,1037777
+ENB,Energy,Oil & Gas Midstream,98988277760,4070086
+EXR,Real Estate,REIT - Industrial,34396487680,1096142
+GNE,Utilities,Utilities - Regulated Electric,385422592,68816
+ENR,Industrials,Electrical Equipment & Parts,2274044928,615788
+EC,Energy,Oil & Gas Integrated,21010583552,2459183
+EFC,Real Estate,REIT - Mortgage,1167722624,878976
+STRA,Consumer Defensive,Education & Training Services,2490968576,113694
+ERII,Industrials,Pollution & Treatment Controls,874197888,437333
+E,Energy,Oil & Gas Integrated,44623110144,298881
+SXC,Basic Materials,Coking Coal,846049600,996554
+NPO,Industrials,Specialty Industrial Machinery,3997563648,116794
+NGL,Energy,Oil & Gas Midstream,595378688,347442
+GEL,Energy,Oil & Gas Midstream,1454872320,579742
+ENS,Industrials,Electrical Equipment & Parts,4024861440,287061
+EME,Industrials,Engineering & Construction,19668197376,428298
+LE,Consumer Cyclical,Apparel Retail,361257728,126591
+EXP,Basic Materials,Building Materials,8338543616,305296
+ENPH,Technology,Solar,8291359744,3803006
+ENLC,Energy,Oil & Gas Midstream,6453969408,5351186
+LOCO,Consumer Cyclical,Restaurants,374838784,177761
+EXTR,Technology,Communication Equipment,2114787200,939625
+KOS,Energy,Oil & Gas E&P,1462874496,8930184
+ESS,Real Estate,REIT - Residential,20105566208,403293
+EPR,Real Estate,REIT - Specialty,3690396160,559283
+REGI,Unknown,Unknown,3106199040,1639328
+PTEN,Energy,Oil & Gas Drilling,3508421376,8994555
+EVLV,Industrials,Security & Protection Services,633350976,1774233
+ERJ,Industrials,Aerospace & Defense,7743021056,1049113
+EZPW,Financial Services,Credit Services,790017088,541767
+EXLS,Technology,Information Technology Services,8270943744,835323
+FET,Energy,Oil & Gas Equipment & Services,226142912,73808
+EGY,Energy,Oil & Gas E&P,450857536,941759
+WERN,Industrials,Trucking,2128272256,650613
+EEFT,Technology,Software - Infrastructure,4564932608,257261
+VNOM,Energy,Oil & Gas Midstream,10837250048,1338852
+ESRT,Real Estate,REIT - Diversified,2637237248,1098913
+ENTG,Technology,Semiconductor Equipment & Materials,16450174976,2179254
+ELS,Real Estate,REIT - Residential,13394706432,1340306
+IESC,Industrials,Engineering & Construction,4459871232,221167
+HEES,Industrials,Rental & Leasing Services,3202928640,783671
+ENVA,Financial Services,Credit Services,2859279360,221030
+VET,Energy,Oil & Gas E&P,1416062976,1116089
+ESEA,Industrials,Marine Shipping,237620096,44284
+EDR,Communication Services,Entertainment,10940248064,1891781
+ESCA,Consumer Cyclical,Leisure,212600224,25652
+EGP,Real Estate,REIT - Industrial,9386170368,365338
+HTLD,Industrials,Trucking,886479488,408322
+ESNT,Financial Services,Insurance - Specialty,6150794752,710510
+RUSHB,Consumer Cyclical,Auto & Truck Dealerships,4668726784,19730
+OEC,Basic Materials,Specialty Chemicals,820204032,460728
+GDEN,Consumer Cyclical,Resorts & Casinos,929843136,205693
+FSLR,Technology,Solar,17165679616,2170827
+FLEX,Technology,Electronic Components,16239735808,4699669
+PNC,Financial Services,Banks - Regional,77377961984,2011466
+FTI,Energy,Oil & Gas Equipment & Services,12881566720,3465205
+MFA,Real Estate,REIT - Mortgage,1090246528,973225
+FRO,Energy,Oil & Gas Midstream,3851377920,3481023
+SYF,Financial Services,Credit Services,24911101952,3520832
+SFM,Consumer Defensive,Grocery Stores,17635465216,1284754
+UNFI,Consumer Defensive,Food Distribution,2059419392,707289
+IFF,Basic Materials,Specialty Chemicals,21988651008,1406871
+GGAL,Financial Services,Banks - Regional,10491585536,1151683
+FTK,Energy,Oil & Gas Equipment & Services,272631552,245111
+FRT,Real Estate,REIT - Retail,9570964480,659798
+KB,Financial Services,Banks - Regional,21030000640,188966
+LPLA,Financial Services,Capital Markets,27799128064,526122
+SFL,Industrials,Marine Shipping,1317999104,846013
+RJF,Financial Services,Asset Management,32865515520,1208871
+FN,Technology,Electronic Components,7702854144,617032
+FR,Real Estate,REIT - Industrial,7595041280,1041852
+HIFS,Financial Services,Banks - Regional,604823168,11642
+FISI,Financial Services,Banks - Regional,571190656,131279
+FORM,Technology,Semiconductor Equipment & Materials,2845535232,893381
+WSBF,Financial Services,Banks - Regional,278152352,47833
+PFS,Financial Services,Banks - Regional,2470156800,583822
+GSM,Basic Materials,Other Industrial Metals & Mining,774086144,921335
+VIRT,Financial Services,Capital Markets,5696237568,883971
+SMFG,Financial Services,Banks - Diversified,96090537984,1407811
+NATH,Consumer Cyclical,Restaurants,410995744,10532
+FI,Technology,Information Technology Services,1.31E+11,2793837
+MOFG,Financial Services,Banks - Regional,675268736,119594
+FRSH,Technology,Software - Application,5278745600,4157618
+WAFD,Financial Services,Banks - Regional,2442461440,472066
+MFG,Financial Services,Banks - Regional,70390317056,1111823
+PLNT,Consumer Cyclical,Leisure,8785911808,1125537
+PFSI,Financial Services,Mortgage Finance,5190577664,299883
+HTLF,Financial Services,Banks - Regional,2774426880,275404
+FFWM,Financial Services,Banks - Regional,430766848,485183
+PNFP,Financial Services,Banks - Regional,9257453568,472394
+FPI,Real Estate,REIT - Specialty,584611840,322649
+FLXS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",281384352,32872
+WLFC,Industrials,Rental & Leasing Services,1271987328,35511
+ORRF,Financial Services,Banks - Regional,657321024,108257
+GS,Financial Services,Capital Markets,2.02E+11,2209659
+MRVL,Technology,Semiconductors,89558548480,14455842
+HTZ,Industrials,Rental & Leasing Services,1196094976,4819522
+IGT,Consumer Cyclical,Gambling,3457827328,1201876
+SPG,Real Estate,REIT - Retail,70212018176,1448784
+GWW,Industrials,Industrial Distribution,50055524352,264028
+GPRE,Basic Materials,Chemicals,423330272,1378450
+MLNK,Technology,Software - Application,1461412608,239400
+GGG,Industrials,Specialty Industrial Machinery,14531230720,803286
+GES,Consumer Cyclical,Apparel Retail,634462336,1144896
+GEO,Industrials,Security & Protection Services,3870439168,2922923
+HCSG,Healthcare,Medical Care Facilities,828922432,418071
+GEVO,Basic Materials,Specialty Chemicals,433326656,6578774
+TGI,Industrials,Aerospace & Defense,1960742144,1375655
+GPN,Industrials,Specialty Business Services,25898065920,1677801
+TAL,Consumer Defensive,Education & Training Services,8937346048,7210789
+G,Technology,Information Technology Services,9700727808,1536784
+MG,Industrials,Security & Protection Services,313825248,122620
+GCO,Consumer Cyclical,Apparel Retail,449725344,200777
+IHG,Consumer Cyclical,Lodging,21269237760,128318
+GEF,Consumer Cyclical,Packaging & Containers,2905914112,187554
+TDG,Industrials,Aerospace & Defense,74926776320,296279
+SGU,Energy,Oil & Gas Refining & Marketing,447643936,27071
+KRG,Real Estate,REIT - Retail,5202436608,1717277
+GLNG,Energy,Oil & Gas Midstream,4277082624,1270723
+THRM,Consumer Cyclical,Auto Parts,1096065408,205844
+MDU,Industrials,Conglomerates,3443668224,1953408
+GNRC,Industrials,Specialty Industrial Machinery,8752815104,764277
+PENN,Consumer Cyclical,Resorts & Casinos,3424994560,3923574
+GSL,Industrials,Rental & Leasing Services,797404480,332115
+GGB,Basic Materials,Steel,5975885312,9780947
+WLDN,Industrials,Engineering & Construction,490699040,118216
+WES,Energy,Oil & Gas Midstream,15412477952,1264700
+PAGP,Energy,Oil & Gas Midstream,4869019136,1732861
+PRAA,Financial Services,Credit Services,926133184,253408
+MRC,Energy,Oil & Gas Equipment & Services,1115830912,593191
+GPRK,Energy,Oil & Gas E&P,459713120,758403
+GENC,Industrials,Farm & Heavy Construction Machinery,204328336,23571
+SERV,Industrials,Specialty Industrial Machinery,1180380032,10223867
+ROCK,Industrials,Building Products & Equipment,1792855552,197130
+HUBG,Industrials,Integrated Freight & Logistics,2609847296,569054
+THR,Industrials,Specialty Industrial Machinery,1009018496,179303
+TNET,Industrials,Staffing & Employment Services,3887421184,299184
+ORN,Industrials,Engineering & Construction,317435424,402961
+MYRG,Industrials,Engineering & Construction,2162107904,177281
+GOGL,Industrials,Marine Shipping,1864418176,1718135
+NVEE,Industrials,Engineering & Construction,1145216128,418747
+NGS,Energy,Oil & Gas Equipment & Services,342236960,85738
+MARA,Financial Services,Capital Markets,5738949632,54035303
+GNK,Industrials,Marine Shipping,625120512,440572
+GASS,Industrials,Marine Shipping,209425968,156513
+HPQ,Technology,Computer Hardware,31228674048,7041640
+HON,Industrials,Conglomerates,1.33E+11,3942922
+VIPS,Consumer Cyclical,Internet Retail,7946317312,3041057
+HCP,Technology,Software - Infrastructure,7024799232,2496942
+HP,Energy,Oil & Gas Drilling,2712041984,1521491
+HOG,Consumer Cyclical,Recreational Vehicles,3296495872,1802793
+PYPL,Financial Services,Credit Services,75766038528,9793916
+RHI,Industrials,Staffing & Employment Services,6025495040,1030581
+OHI,Real Estate,REIT - Healthcare Facilities,10515108864,1949116
+HLF,Consumer Defensive,Packaged Foods,526134208,2223401
+RH,Consumer Cyclical,Specialty Retail,7075575296,628740
+HSBC,Financial Services,Banks - Diversified,1.97E+11,1176235
+HR,Real Estate,REIT - Healthcare Facilities,5928662016,2783681
+HST,Real Estate,REIT - Hotel & Motel,11634046976,7283676
+HLT,Consumer Cyclical,Lodging,64845697024,1403044
+HIMX,Technology,Semiconductors,1735008000,3439618
+HWKN,Basic Materials,Specialty Chemicals,2358489088,136701
+HTH,Financial Services,Banks - Regional,2073128832,344374
+HSII,Industrials,Staffing & Employment Services,919643072,133769
+JHX,Basic Materials,Building Materials,14011902976,93566
+NHI,Real Estate,REIT - Healthcare Facilities,3080526848,222145
+ITUB,Financial Services,Banks - Regional,54028263424,27657445
+RHP,Real Estate,REIT - Hotel & Motel,6136279040,451923
+MKTX,Financial Services,Capital Markets,7217376256,482977
+JBHT,Industrials,Integrated Freight & Logistics,16637831168,818335
+HPP,Real Estate,REIT - Office,412993472,4264427
+SLGN,Consumer Cyclical,Packaging & Containers,5681494016,731164
+NMR,Financial Services,Capital Markets,20011782144,525032
+HI,Industrials,Specialty Industrial Machinery,2437250048,462503
+MTSI,Technology,Semiconductors,9076146176,665732
+HII,Industrials,Aerospace & Defense,6292919296,609715
+KOP,Basic Materials,Specialty Chemicals,610904640,131077
+HIW,Real Estate,REIT - Office,3212016640,923393
+OPY,Financial Services,Capital Markets,659556608,26749
+HELE,Consumer Defensive,Household & Personal Products,1294546816,421647
+RICK,Consumer Cyclical,Restaurants,452920256,89781
+LXFR,Industrials,Specialty Industrial Machinery,394004416,117810
+UHT,Real Estate,REIT - Healthcare Facilities,545674240,69277
+PEB,Real Estate,REIT - Hotel & Motel,1468633216,1745635
+MCFT,Consumer Cyclical,Recreational Vehicles,319302656,84937
+HDSN,Basic Materials,Specialty Chemicals,256275504,468562
+XHR,Real Estate,REIT - Hotel & Motel,1539068160,668496
+VBTX,Financial Services,Banks - Regional,1456148992,403477
+QCRH,Financial Services,Banks - Regional,1310887296,77342
+HY,Industrials,Farm & Heavy Construction Machinery,916204160,77101
+SHO,Real Estate,REIT - Hotel & Motel,2236028160,2634115
+HLI,Financial Services,Capital Markets,12519443456,377564
+NVGS,Energy,Oil & Gas Midstream,1151537408,182852
+HBM,Basic Materials,Copper,3572981504,4691538
+HEI-A,Industrials,Aerospace & Defense,27548350464,224435
+TSLA,Consumer Cyclical,Auto Manufacturers,1.14E+12,82513418
+MU,Technology,Semiconductors,1.07E+11,23671454
+V,Financial Services,Credit Services,6.86E+11,6061979
+KMI,Energy,Oil & Gas Midstream,59006754816,14268852
+UPS,Industrials,Integrated Freight & Logistics,98683707392,5568698
+TXN,Technology,Semiconductors,1.65E+11,6090011
+M,Consumer Cyclical,Department Stores,4195079936,7127405
+MAR,Consumer Cyclical,Lodging,79466323968,1341993
+MA,Financial Services,Credit Services,5.16E+11,2631122
+ROST,Consumer Cyclical,Apparel Retail,46335229952,2585711
+JNPR,Technology,Communication Equipment,12031773696,4335322
+SWKS,Technology,Semiconductors,10637839360,2919549
+NOV,Energy,Oil & Gas Equipment & Services,6198108160,4219994
+SRCL,Industrials,Waste Management,5754061824,1611431
+PAYX,Technology,Software - Application,53516165120,1866954
+MCHP,Technology,Semiconductors,29182058496,8967618
+WTW,Financial Services,Insurance Brokers,32165412864,661081
+URBN,Consumer Cyclical,Apparel Retail,5197969408,1964284
+NTAP,Technology,Computer Hardware,23935215616,1745659
+SHAK,Consumer Cyclical,Restaurants,4641747456,964825
+PPG,Basic Materials,Specialty Chemicals,27357440000,2035359
+PCAR,Industrials,Farm & Heavy Construction Machinery,55198343168,2191501
+VTR,Real Estate,REIT - Healthcare Facilities,28384040960,2634288
+TER,Technology,Semiconductor Equipment & Materials,18377234432,2600705
+WM,Industrials,Waste Management,91350908928,1687671
+JWN,Consumer Cyclical,Department Stores,4012292608,2695325
+ITW,Industrials,Specialty Industrial Machinery,76804579328,910820
+MGM,Consumer Cyclical,Resorts & Casinos,11883878400,4149955
+WSO,Industrials,Industrial Distribution,19209906176,204522
+TRN,Industrials,Railroads,2889672448,471533
+MLM,Basic Materials,Building Materials,32494047232,411589
+R,Industrials,Rental & Leasing Services,6778615296,309781
+PX,Financial Services,Asset Management,1420660224,760996
+MXL,Technology,Semiconductors,1390530048,1806637
+TGLS,Basic Materials,Building Materials,3479532032,269113
+RSG,Industrials,Waste Management,70299492352,980810
+LEG,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1342950144,1806918
+URI,Industrials,Rental & Leasing Services,47633039360,582716
+NBR,Energy,Oil & Gas Drilling,474431168,300769
+IR,Industrials,Specialty Industrial Machinery,37298761728,2057754
+MAN,Industrials,Staffing & Employment Services,2590419968,720471
+LTC,Real Estate,REIT - Healthcare Facilities,1564665856,319816
+RMBS,Technology,Semiconductors,6671595008,943672
+NYMT,Real Estate,REIT - Mortgage,551628544,716837
+WSM,Consumer Cyclical,Specialty Retail,25489086464,1876766
+RES,Energy,Oil & Gas Equipment & Services,1304880128,1522133
+PII,Consumer Cyclical,Recreational Vehicles,2476201472,1345106
+TDW,Energy,Oil & Gas Equipment & Services,2846371328,1052950
+STWD,Real Estate,REIT - Mortgage,6819248128,2047418
+PWR,Industrials,Engineering & Construction,42934423552,1159933
+XPO,Industrials,Trucking,16816162816,1515818
+NNN,Real Estate,REIT - Retail,7654038016,1208591
+WGO,Consumer Cyclical,Recreational Vehicles,1260533888,727150
+STAG,Real Estate,REIT - Industrial,6728412160,1192976
+SNPS,Technology,Software - Infrastructure,81662009344,1097910
+RPM,Basic Materials,Specialty Chemicals,15786864640,644627
+OI,Consumer Cyclical,Packaging & Containers,1802595584,1426016
+MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances",7554988544,731761
+PZZA,Consumer Cyclical,Restaurants,1673861248,1330620
+TXT,Industrials,Aerospace & Defense,13346085888,1223871
+OII,Energy,Oil & Gas Equipment & Services,2559849728,736847
+NWL,Consumer Defensive,Household & Personal Products,2916160000,6572011
+LYB,Basic Materials,Specialty Chemicals,24701759488,2962072
+LII,Industrials,Building Products & Equipment,22057635840,440327
+QRVO,Technology,Semiconductors,7237317632,3241118
+PAY,Technology,Software - Infrastructure,3839973376,441323
+KBR,Industrials,Engineering & Construction,6988542976,1510594
+WWD,Industrials,Aerospace & Defense,11321713664,486706
+RRTS,Industrials,Trucking,200650064,17371
+MMS,Industrials,Specialty Business Services,3814866944,912457
+TWI,Industrials,Farm & Heavy Construction Machinery,552469760,830718
+TTEK,Industrials,Engineering & Construction,8250148352,2823835
+MTZ,Industrials,Engineering & Construction,10851232768,901210
+MSCI,Financial Services,Financial Data & Stock Exchanges,44440240128,486523
+MPW,Real Estate,REIT - Healthcare Facilities,2905936128,12910103
+MELI,Consumer Cyclical,Internet Retail,1.05E+11,369783
+LSTR,Industrials,Integrated Freight & Logistics,5643159552,287886
+LAD,Consumer Cyclical,Auto & Truck Dealerships,10247064576,334410
+VMI,Industrials,Conglomerates,6472236032,117367
+SKYW,Industrials,Airlines,4387261440,363103
+ROL,Consumer Cyclical,Personal Services,25145114624,1625383
+PRLB,Industrials,Metal Fabrication,1103689728,262977
+PMT,Real Estate,REIT - Mortgage,1191732992,742196
+PLD,Real Estate,REIT - Industrial,1.12E+11,4173789
+MUX,Basic Materials,Other Precious Metals & Mining,403286976,767430
+TBI,Industrials,Staffing & Employment Services,218735856,156728
+IIIN,Industrials,Metal Fabrication,599822656,164320
+ZEUS,Basic Materials,Steel,389080896,90654
+XYL,Industrials,Specialty Industrial Machinery,31847657472,1442906
+UDR,Real Estate,REIT - Residential,16248521728,1834642
+TXRH,Consumer Cyclical,Restaurants,11436797952,778998
+MTN,Consumer Cyclical,Resorts & Casinos,6217395200,600577
+TPX,Consumer Cyclical,"Furnishings, Fixtures & Appliances",11884811264,1859800
+THO,Consumer Cyclical,Recreational Vehicles,5456626176,585215
+RWT,Real Estate,REIT - Mortgage,856079232,960111
+PLAB,Technology,Semiconductor Equipment & Materials,1426313216,516742
+MWA,Industrials,Specialty Industrial Machinery,4239161856,1276515
+MPWR,Technology,Semiconductors,33475620864,931864
+LXU,Basic Materials,Chemicals,559360832,309508
+KRO,Basic Materials,Specialty Chemicals,1068684416,182686
+WTI,Energy,Oil & Gas E&P,246087856,1966105
+WSBC,Financial Services,Banks - Regional,2447257088,459650
+TREE,Financial Services,Financial Conglomerates,617057152,290903
+STNG,Energy,Oil & Gas Midstream,2229427200,968720
+NR,Energy,Oil & Gas Equipment & Services,627105408,626267
+LYTS,Technology,Electronic Components,600522496,140961
+WOOF,Consumer Cyclical,Specialty Retail,810431552,4227357
+WMK,Consumer Defensive,Grocery Stores,1947713280,78118
+WEX,Technology,Software - Infrastructure,6171185152,437408
+W,Consumer Cyclical,Internet Retail,5963931136,3516630
+ROP,Technology,Software - Application,61488324608,617349
+OSIS,Technology,Electronic Components,3540620288,228084
+MYE,Consumer Cyclical,Packaging & Containers,448608000,462589
+MTX,Basic Materials,Specialty Chemicals,2355937024,153125
+MGA,Consumer Cyclical,Auto Parts,11398857728,1545901
+KNX,Industrials,Trucking,8816692224,1935422
+JOUT,Consumer Cyclical,Leisure,307111616,51118
+WING,Consumer Cyclical,Restaurants,9112193024,509589
+SEDG,Technology,Solar,860558976,4448905
+QUAD,Industrials,Specialty Business Services,408612192,270577
+OFLX,Industrials,Specialty Industrial Machinery,388327744,17513
+NNI,Financial Services,Credit Services,4087128576,46750
+NL,Industrials,Security & Protection Services,352191904,31986
+MATX,Industrials,Marine Shipping,4710520320,244013
+KELYA,Industrials,Staffing & Employment Services,506385152,638027
+WTS,Industrials,Specialty Industrial Machinery,7332732416,167852
+TTI,Energy,Oil & Gas Equipment & Services,590508800,992069
+TEN,Energy,Oil & Gas Midstream,520183712,347777
+SSTK,Communication Services,Internet Content & Information,1026080000,575844
+SAIA,Industrials,Trucking,12823890944,364179
+OIS,Energy,Oil & Gas Equipment & Services,343954944,493144
+MRCY,Industrials,Aerospace & Defense,2723849984,521340
+MERC,Basic Materials,Paper & Paper Products,435328928,280798
+LZB,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1919325952,399725
+IMKTA,Consumer Defensive,Grocery Stores,1229887360,119752
+WOR,Industrials,Metal Fabrication,2165904384,262115
+REXR,Real Estate,REIT - Industrial,9590383616,2068903
+SCS,Consumer Cyclical,"Furnishings, Fixtures & Appliances",1412427264,582833
+POWL,Industrials,Electrical Equipment & Parts,2584861952,518776
+OLP,Real Estate,REIT - Diversified,561411392,51625
+NPK,Industrials,Aerospace & Defense,708259904,39788
+NC,Energy,Thermal Coal,232481472,10203
+KFY,Industrials,Staffing & Employment Services,3435943680,343437
+KAI,Industrials,Specialty Industrial Machinery,4160067840,102957
+WCC,Industrials,Industrial Distribution,9490159616,663644
+SIG,Consumer Cyclical,Luxury Goods,2291996928,1489689
+KEY,Financial Services,Banks - Regional,19346688000,10968789
+PHG,Healthcare,Medical Devices,26661259264,567261
+KNOP,Industrials,Marine Shipping,200892352,88150
+KMT,Industrials,Tools & Accessories,1738285952,900601
+LRN,Consumer Defensive,Education & Training Services,6067783168,786877
+KFRC,Industrials,Staffing & Employment Services,958579264,103781
+KWR,Basic Materials,Specialty Chemicals,2507368448,142801
+WYNN,Consumer Cyclical,Resorts & Casinos,8836812800,2167694
+SLB,Energy,Oil & Gas Equipment & Services,58947772416,12721625
+RIG,Energy,Oil & Gas Drilling,3179168768,23126067
+SDRL,Energy,Oil & Gas Drilling,2022417792,781713
+SSYS,Technology,Computer Hardware,840201472,697718
+RLJ,Real Estate,REIT - Hotel & Motel,1471464064,1584427
+TROX,Basic Materials,Chemicals,1381957504,1083071
+SUN,Energy,Oil & Gas Refining & Marketing,7812732416,504372
+TNK,Energy,Oil & Gas Midstream,1403454848,436027
+NMM,Industrials,Marine Shipping,1309127808,147025
+MPLX,Energy,Oil & Gas Midstream,54623068160,1831647
+SSL,Basic Materials,Specialty Chemicals,2841245952,1164625
+LXP,Real Estate,REIT - Industrial,2525114368,2024801
+NRP,Energy,Thermal Coal,1341186432,32833
+WNS,Technology,Information Technology Services,2557745664,526110
+TSEM,Technology,Semiconductors,5354684416,724071
+MRTN,Industrials,Trucking,1217070720,397964
+TATT,Industrials,Aerospace & Defense,307200832,54037
+SLAB,Technology,Semiconductors,4882936320,332827
+LFUS,Technology,Electronic Components,6144615936,133354
+MMYT,Consumer Cyclical,Travel Services,11445871616,639318
+RDCM,Communication Services,Telecom Services,223775968,87345
+PANL,Industrials,Marine Shipping,340397728,220349
+LQDT,Consumer Cyclical,Internet Retail,1108413312,324923
+CAPL,Energy,Oil & Gas Refining & Marketing,860996800,35486
+USLM,Basic Materials,Building Materials,2935776768,127133
+NVMI,Technology,Semiconductor Equipment & Materials,7813454848,202827
+MS,Financial Services,Capital Markets,2.20E+11,6408849
+MANU,Communication Services,Entertainment,2668451840,225883
+MLR,Consumer Cyclical,Auto Parts,729255360,84340
+TITN,Industrials,Industrial Distribution,416493856,279176
+SMP,Consumer Cyclical,Auto Parts,673810240,104625
+MSA,Industrials,Security & Protection Services,6418536960,170577
+MLI,Industrials,Metal Fabrication,9169315840,1311064
+MGRC,Industrials,Rental & Leasing Services,2949581056,136561
+SUM,Basic Materials,Building Materials,9228477440,4001322
+SMRT,Technology,Software - Application,290779168,967554
+VLGEA,Consumer Defensive,Grocery Stores,504668320,27562
+NXPI,Technology,Semiconductors,55810113536,2435672
+STM,Technology,Semiconductors,21415493632,6040549
+NSP,Industrials,Staffing & Employment Services,3211849216,421977
+NSSC,Industrials,Security & Protection Services,920227392,470623
+PDM,Real Estate,REIT - Office,987040000,749572
+PSX,Energy,Oil & Gas Refining & Marketing,51846639616,3088945
+RIO,Basic Materials,Other Industrial Metals & Mining,1.03E+11,2937457
+PSA,Real Estate,REIT - Industrial,52772126720,698196
+UL,Consumer Defensive,Household & Personal Products,1.46E+11,2396371
+PNR,Industrials,Specialty Industrial Machinery,16058802176,1221522
+PKX,Basic Materials,Steel,12988619776,303664
+UGP,Energy,Oil & Gas Refining & Marketing,3103503104,2090557
+POWI,Technology,Semiconductors,3402885376,403910
+UMH,Real Estate,REIT - Residential,1438343296,436877
+IPAR,Consumer Defensive,Household & Personal Products,4482640384,122079
+PNRG,Energy,Oil & Gas E&P,334568992,14506
+VNO,Real Estate,REIT - Office,8699024384,1258489
+WSR,Real Estate,REIT - Retail,705315904,209408
+TCI,Real Estate,Real Estate Services,232570496,3891
+RUN,Technology,Solar,1924828672,9164727
+RELY,Technology,Software - Infrastructure,5187217408,1455184
+IRT,Real Estate,REIT - Residential,4858725888,1616274
+VALE,Basic Materials,Other Industrial Metals & Mining,40852221952,32359649
+YPF,Energy,Oil & Gas Integrated,16109548544,2562130
+TS,Energy,Oil & Gas Equipment & Services,21130395648,1350311
+TX,Basic Materials,Steel,5812680192,207725
+TRU,Financial Services,Financial Data & Stock Exchanges,19538724864,1448869
+UTI,Consumer Defensive,Education & Training Services,1478910336,600011
+UFPT,Healthcare,Medical Devices,1949594368,94950
+TTMI,Technology,Electronic Components,2667508992,663974
+VECO,Technology,Semiconductor Equipment & Materials,1378006912,628966
+VHI,Basic Materials,Chemicals,549484992,25584
+VSH,Technology,Semiconductors,2411124480,2384715
+FSBC,Financial Services,Banks - Regional,663663552,40984
+CDXC,Consumer Defensive,Packaged Foods,426218784,534250
+CYRX,Industrials,Integrated Freight & Logistics,331432160,334366
+CSWI,Industrials,Specialty Industrial Machinery,5327123968,106584
+IOSP,Basic Materials,Specialty Chemicals,2788471040,121174
+SMPL,Consumer Defensive,Packaged Foods,3876597760,1048915
+LTM,Industrials,Airlines,9870473216,212527
